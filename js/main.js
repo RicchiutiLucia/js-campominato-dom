@@ -11,7 +11,7 @@ const playDom = document.getElementById('play');
 
 const titleDom = document.getElementById('title');
 const selectedDom = document.getElementById('difficult');
-let pointCounterDom = document.getElementById('point-counter');
+let pointCounterDom = document.getElementById('point');
 
 
 let playerScoreDom = 0;
